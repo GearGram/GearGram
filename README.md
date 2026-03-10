@@ -18,8 +18,7 @@
 
   | | | |
   |:---:|:---:|:---:|
-  | ![截图1](screenshot1.jpg) | ![截图2](screenshot2.png) | ![截图3](screenshot3.png) |
-  | ![截图4](screenshot4.png) | | |
+  | ![截图1](screenshot1.jpg) | 
 
   ---
 
