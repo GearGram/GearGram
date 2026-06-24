@@ -58,16 +58,6 @@
 
   ## 📥 下载安装
 
-  1. 前往 [**Releases 页面**](https://github.com/GearGram/GearGram/releases/latest)
-  2. 下载 `GearGram.exe`
-  3. 直接运行即可，无需安装
-
-  > **系统要求**：Windows 10 / 11 64-bit
-
-  ---
-
-  ## 📞 联系我们
-
   - **Telegram 频道**：[@GearGram_Channel](https://t.me/GearGram_Channel)
   - **Telegram 群组**：[@GearGram_Group](https://t.me/GearGram_Group)
 
